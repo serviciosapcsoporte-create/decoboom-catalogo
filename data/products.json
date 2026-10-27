@@ -1,0 +1,3852 @@
+[
+  {
+    "sku": "BOOM-001-base-espacial-buzz-lightyear",
+    "ref": "SIN_REF",
+    "name": "Base Espacial Buzz Lightyear",
+    "price": 160000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-001-base-espacial-buzz-lightyear.jpg"
+  },
+  {
+    "sku": "BOOM-002-base-espacial-marcianos-toy",
+    "ref": "SIN_REF",
+    "name": "Base Espacial Marcianos Toy Story",
+    "price": 160000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-002-base-espacial-marcianos-toy.jpg"
+  },
+  {
+    "sku": "BOOM-003-maleta-herramientas-toy-story",
+    "ref": "48201",
+    "name": "Maleta Herramientas Toy Story",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48201.",
+    "imagen": "BOOM-003-maleta-herramientas-toy-story.jpg"
+  },
+  {
+    "sku": "BOOM-004-buzz-lightyear-frases-en",
+    "ref": "61550.1",
+    "name": "Buzz Lightyear Frases en Español",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61550.1.",
+    "imagen": "BOOM-004-buzz-lightyear-frases-en.jpg"
+  },
+  {
+    "sku": "BOOM-005-set-woody-tiro-al",
+    "ref": "12690.2",
+    "name": "Set Woody Tiro al Blanco",
+    "price": 290000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12690.2.",
+    "imagen": "BOOM-005-set-woody-tiro-al.jpg"
+  },
+  {
+    "sku": "BOOM-006-woody",
+    "ref": "61050.9",
+    "name": "Woody",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61050.9.",
+    "imagen": "BOOM-006-woody.jpg"
+  },
+  {
+    "sku": "BOOM-007-muneca-jessie",
+    "ref": "61030.9",
+    "name": "Muñeca Jessie",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61030.9.",
+    "imagen": "BOOM-007-muneca-jessie.jpg"
+  },
+  {
+    "sku": "BOOM-008-jessie",
+    "ref": "81580.1",
+    "name": "Jessie",
+    "price": 180000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81580.1.",
+    "imagen": "BOOM-008-jessie.jpg"
+  },
+  {
+    "sku": "BOOM-009-set-jessie-tiro-al",
+    "ref": "12680.2",
+    "name": "Set Jessie Tiro al Blanco",
+    "price": 280000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12680.2.",
+    "imagen": "BOOM-009-set-jessie-tiro-al.jpg"
+  },
+  {
+    "sku": "BOOM-010-buzz-lightyear",
+    "ref": "12320.9",
+    "name": "Buzz lightyear",
+    "price": 220000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12320.9.",
+    "imagen": "BOOM-010-buzz-lightyear.jpg"
+  },
+  {
+    "sku": "BOOM-011-buzz-lightyear-sonido",
+    "ref": "48051",
+    "name": "Buzz Lightyear Sonido",
+    "price": 85000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48051.",
+    "imagen": "BOOM-011-buzz-lightyear-sonido.jpg"
+  },
+  {
+    "sku": "BOOM-012-buzz-lightyear-control-remoto",
+    "ref": "61530.9",
+    "name": "Buzz Lightyear Control Remoto",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61530.9.",
+    "imagen": "BOOM-012-buzz-lightyear-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-013-buzz-lightyear",
+    "ref": "48551",
+    "name": "Buzz Lightyear",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48551.",
+    "imagen": "BOOM-013-buzz-lightyear.jpg"
+  },
+  {
+    "sku": "BOOM-014-munecos-toy-story",
+    "ref": "26851",
+    "name": "Muñecos Toy Story",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26851.",
+    "imagen": "BOOM-014-munecos-toy-story.jpg"
+  },
+  {
+    "sku": "BOOM-015-set-toy-story-5",
+    "ref": "37051",
+    "name": "Set Toy Story 5",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37051.",
+    "imagen": "BOOM-015-set-toy-story-5.jpg"
+  },
+  {
+    "sku": "BOOM-016-set-toy-story-5",
+    "ref": "15901",
+    "name": "Set Toy Story 5",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 15901.",
+    "imagen": "BOOM-016-set-toy-story-5.jpg"
+  },
+  {
+    "sku": "BOOM-017-muneco-buzz-lightyear",
+    "ref": "25551",
+    "name": "Muñeco Buzz Lightyear",
+    "price": 55000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25551.",
+    "imagen": "BOOM-017-muneco-buzz-lightyear.jpg"
+  },
+  {
+    "sku": "BOOM-018-set-woody-buzz-lightyear",
+    "ref": "25552",
+    "name": "Set Woody - Buzz Lightyear",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25552.",
+    "imagen": "BOOM-018-set-woody-buzz-lightyear.jpg"
+  },
+  {
+    "sku": "BOOM-019-carros-cars-metalicos",
+    "ref": "82501",
+    "name": "Carros Cars Metalicos",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 82501.",
+    "imagen": "BOOM-019-carros-cars-metalicos.jpg"
+  },
+  {
+    "sku": "BOOM-020-set-carros-cars-x",
+    "ref": "13459",
+    "name": "Set Carros Cars x 6",
+    "price": 40000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13459.",
+    "imagen": "BOOM-020-set-carros-cars-x.jpg"
+  },
+  {
+    "sku": "BOOM-021-set-carros-cars-x",
+    "ref": "12051",
+    "name": "Set Carros Cars x 3",
+    "price": 25000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12051.",
+    "imagen": "BOOM-021-set-carros-cars-x.jpg"
+  },
+  {
+    "sku": "BOOM-022-set-carros-cars-x",
+    "ref": "13159",
+    "name": "Set Carros Cars x 4",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13159.",
+    "imagen": "BOOM-022-set-carros-cars-x.jpg"
+  },
+  {
+    "sku": "BOOM-023-carros-monster-metalicos-cars",
+    "ref": "25851",
+    "name": "Carros Monster Metálicos Cars",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25851.",
+    "imagen": "BOOM-023-carros-monster-metalicos-cars.jpg"
+  },
+  {
+    "sku": "BOOM-024-carros-monster-metalicos-cars",
+    "ref": "25851",
+    "name": "Carros Monster Metálicos Cars",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25851.",
+    "imagen": "BOOM-024-carros-monster-metalicos-cars.jpg"
+  },
+  {
+    "sku": "BOOM-025-set-carros-cars-x",
+    "ref": "25201",
+    "name": "Set Carros Cars x 3",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-025-set-carros-cars-x.jpg"
+  },
+  {
+    "sku": "BOOM-026-carro-mate-impulso",
+    "ref": "25851",
+    "name": "Carro Mate Impulso",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25851.",
+    "imagen": "BOOM-026-carro-mate-impulso.jpg"
+  },
+  {
+    "sku": "BOOM-027-carro-mate-control-remoto",
+    "ref": "51520.9",
+    "name": "Carro Mate Control Remoto",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51520.9.",
+    "imagen": "BOOM-027-carro-mate-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-028-carro-cars-gde-control",
+    "ref": "38551",
+    "name": "Carro Cars Gde Control Remoto",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38551.",
+    "imagen": "BOOM-028-carro-cars-gde-control.jpg"
+  },
+  {
+    "sku": "BOOM-029-mula-cars-metalica",
+    "ref": "24159",
+    "name": "Mula Cars Metálica",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24159.",
+    "imagen": "BOOM-029-mula-cars-metalica.jpg"
+  },
+  {
+    "sku": "BOOM-030-set-mula-cars-maleta",
+    "ref": "49751",
+    "name": "Set Mula Cars Maleta",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49751.",
+    "imagen": "BOOM-030-set-mula-cars-maleta.jpg"
+  },
+  {
+    "sku": "BOOM-031-set-mula-cars-metalicos",
+    "ref": "37559",
+    "name": "Set Mula Cars Metálicos",
+    "price": 7500,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37559.",
+    "imagen": "BOOM-031-set-mula-cars-metalicos.jpg"
+  },
+  {
+    "sku": "BOOM-032-set-mula-cars-tipo",
+    "ref": "41810.9",
+    "name": "Set Mula Cars Tipo Pista",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.9.",
+    "imagen": "BOOM-032-set-mula-cars-tipo.jpg"
+  },
+  {
+    "sku": "BOOM-033-est-mula-cars",
+    "ref": "25451",
+    "name": "Est. Mula Cars",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25451.",
+    "imagen": "BOOM-033-est-mula-cars.jpg"
+  },
+  {
+    "sku": "BOOM-034-carro-cars-gde-50cm",
+    "ref": "91590.3",
+    "name": "Carro Cars Gde 50cm",
+    "price": 190000,
+    "estado": "AGOTADO",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91590.3.",
+    "imagen": "BOOM-034-carro-cars-gde-50cm.jpg"
+  },
+  {
+    "sku": "BOOM-035-carro-cars-med-control",
+    "ref": "26551",
+    "name": "Carro Cars Med Control Remoto",
+    "price": 65000,
+    "estado": "AGOTADO",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26551.",
+    "imagen": "BOOM-035-carro-cars-med-control.jpg"
+  },
+  {
+    "sku": "BOOM-036-avion-dron-spiderman",
+    "ref": "39851",
+    "name": "Avión Dron Spiderman",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39851.",
+    "imagen": "BOOM-036-avion-dron-spiderman.jpg"
+  },
+  {
+    "sku": "BOOM-037-carro-hot-wheel-drift",
+    "ref": "37651",
+    "name": "Carro Hot wheel Drift Control Remoto",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37651.",
+    "imagen": "BOOM-037-carro-hot-wheel-drift.jpg"
+  },
+  {
+    "sku": "BOOM-038-cybertruck-control-remoto",
+    "ref": "12340.9",
+    "name": "Cybertruck Control Remoto",
+    "price": 240000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12340.9.",
+    "imagen": "BOOM-038-cybertruck-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-039-carro-spider-2-en",
+    "ref": "71248.3",
+    "name": "Carro Spider 2 en 1 Control Remoto Pistola láser",
+    "price": 148000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71248.3.",
+    "imagen": "BOOM-039-carro-spider-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-040-camioneta-monster-truck",
+    "ref": "71148.3",
+    "name": "Camioneta Monster truck",
+    "price": 148000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71148.3.",
+    "imagen": "BOOM-040-camioneta-monster-truck.jpg"
+  },
+  {
+    "sku": "BOOM-041-mula-ninera-control-remoto",
+    "ref": "61845.9",
+    "name": "Mula Niñera Control Remoto",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61845.9.",
+    "imagen": "BOOM-041-mula-ninera-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-042-carros-chocones-control-remoto",
+    "ref": "61845.9",
+    "name": "Carros Chocones Control Remoto",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61845.9.",
+    "imagen": "BOOM-042-carros-chocones-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-043-carro-torsion-control-remoto",
+    "ref": "71550.9",
+    "name": "Carro Torsion Control Remoto y Manilla",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71550.9.",
+    "imagen": "BOOM-043-carro-torsion-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-044-carro-f1-humo-control",
+    "ref": "81070.9",
+    "name": "Carro F1 Humo Control Remoto y Manilla",
+    "price": 170000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81070.9.",
+    "imagen": "BOOM-044-carro-f1-humo-control.jpg"
+  },
+  {
+    "sku": "BOOM-045-carro-stunt-control-remoto",
+    "ref": "71550.9",
+    "name": "Carro Stunt Control Remoto y Manilla",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71550.9.",
+    "imagen": "BOOM-045-carro-stunt-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-046-carro-stunt-control-remoto",
+    "ref": "51420.1",
+    "name": "Carro Stunt Control Remoto y Manilla",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51420.1.",
+    "imagen": "BOOM-046-carro-stunt-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-047-carro-metalico-carreras",
+    "ref": "71560.9",
+    "name": "Carro Metálico Carreras",
+    "price": 160000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71560.9.",
+    "imagen": "BOOM-047-carro-metalico-carreras.jpg"
+  },
+  {
+    "sku": "BOOM-048-carro-policia-humo-control",
+    "ref": "24181",
+    "name": "Carro Policía Humo Control Remoto",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24181.",
+    "imagen": "BOOM-048-carro-policia-humo-control.jpg"
+  },
+  {
+    "sku": "BOOM-049-carro-control-remoto-humo",
+    "ref": "24181",
+    "name": "Carro Control Remoto Humo",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24181.",
+    "imagen": "BOOM-049-carro-control-remoto-humo.jpg"
+  },
+  {
+    "sku": "BOOM-050-carro-escalador-de-paredes",
+    "ref": "36181",
+    "name": "Carro Escalador de Paredes",
+    "price": 68000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36181.",
+    "imagen": "BOOM-050-carro-escalador-de-paredes.jpg"
+  },
+  {
+    "sku": "BOOM-051-camioneta-metalica-control-remoto",
+    "ref": "41510.9",
+    "name": "Camioneta Metálica Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-051-camioneta-metalica-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-052-carro-control-reloj",
+    "ref": "25159",
+    "name": "Carro Control Reloj",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25159.",
+    "imagen": "BOOM-052-carro-control-reloj.jpg"
+  },
+  {
+    "sku": "BOOM-053-carro-metalizado-control-remoto",
+    "ref": "26951",
+    "name": "Carro Metalizado Control Remoto",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26951.",
+    "imagen": "BOOM-053-carro-metalizado-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-054-carro-metalizado-control-remoto",
+    "ref": "26951",
+    "name": "Carro Metalizado Control Remoto",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26951.",
+    "imagen": "BOOM-054-carro-metalizado-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-055-cocodrilo-control-remoto",
+    "ref": "51010.9",
+    "name": "Cocodrilo Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51010.9.",
+    "imagen": "BOOM-055-cocodrilo-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-056-deportivo-metalico-control-remoto",
+    "ref": "51820.9",
+    "name": "Deportivo Metálico Control Remoto",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51820.9.",
+    "imagen": "BOOM-056-deportivo-metalico-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-057-carro-monster-tiburon-control",
+    "ref": "41810.9",
+    "name": "Carro Monster Tiburon Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.9.",
+    "imagen": "BOOM-057-carro-monster-tiburon-control.jpg"
+  },
+  {
+    "sku": "BOOM-058-carro-monster-control-remoto",
+    "ref": "41810.9",
+    "name": "Carro Monster Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.9.",
+    "imagen": "BOOM-058-carro-monster-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-059-carro-monster-snake-control",
+    "ref": "41810.9",
+    "name": "Carro Monster Snake Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.9.",
+    "imagen": "BOOM-059-carro-monster-snake-control.jpg"
+  },
+  {
+    "sku": "BOOM-060-carro-monster-dog-control",
+    "ref": "41810.9",
+    "name": "Carro Monster Dog Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.9.",
+    "imagen": "BOOM-060-carro-monster-dog-control.jpg"
+  },
+  {
+    "sku": "BOOM-061-camioneta-control-remoto",
+    "ref": "51620.9",
+    "name": "Camioneta Control Remoto",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51620.9.",
+    "imagen": "BOOM-061-camioneta-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-062-carro-control-remoto",
+    "ref": "37351",
+    "name": "Carro Control Remoto",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-062-carro-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-063-carro-control-remoto",
+    "ref": "37351",
+    "name": "Carro Control Remoto",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-063-carro-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-064-retro-control-remoto",
+    "ref": "41510.9",
+    "name": "Retro Control Remoto",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-064-retro-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-065-volqueta-control-remoto",
+    "ref": "41910.9",
+    "name": "Volqueta Control Remoto",
+    "price": 110000,
+    "estado": "AGOTADO",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41910.9.",
+    "imagen": "BOOM-065-volqueta-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-066-carro-loco-control-remoto",
+    "ref": "26301",
+    "name": "Carro Loco Control Remoto Humo",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26301.",
+    "imagen": "BOOM-066-carro-loco-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-067-carro-loco-control-remoto",
+    "ref": "14981",
+    "name": "Carro Loco Control Remoto Sencillo",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14981.",
+    "imagen": "BOOM-067-carro-loco-control-remoto.jpg"
+  },
+  {
+    "sku": "BOOM-068-espada-mine-craf-recargable",
+    "ref": "25581",
+    "name": "Espada Mine Craf Recargable",
+    "price": 58000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25581.",
+    "imagen": "BOOM-068-espada-mine-craf-recargable.jpg"
+  },
+  {
+    "sku": "BOOM-069-carros-monster-hotwheels",
+    "ref": "31629",
+    "name": "Carros Monster Hotwheels",
+    "price": 12000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 31629.",
+    "imagen": "BOOM-069-carros-monster-hotwheels.jpg"
+  },
+  {
+    "sku": "BOOM-070-chunky",
+    "ref": "27851",
+    "name": "Chunky",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 27851.",
+    "imagen": "BOOM-070-chunky.jpg"
+  },
+  {
+    "sku": "BOOM-071-set-spider-man",
+    "ref": "26651",
+    "name": "Set Spider-Man",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26651.",
+    "imagen": "BOOM-071-set-spider-man.jpg"
+  },
+  {
+    "sku": "BOOM-072-set-dragon-ball-x",
+    "ref": "25051",
+    "name": "Set Dragon Ball x 6",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25051.",
+    "imagen": "BOOM-072-set-dragon-ball-x.jpg"
+  },
+  {
+    "sku": "BOOM-073-set-stranger-things",
+    "ref": "25251",
+    "name": "Set Stranger Things",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25251.",
+    "imagen": "BOOM-073-set-stranger-things.jpg"
+  },
+  {
+    "sku": "BOOM-074-spiderman-pop",
+    "ref": "72051",
+    "name": "Spiderman POP",
+    "price": 25000,
+    "estado": "Disponible",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 72051.",
+    "imagen": "BOOM-074-spiderman-pop.jpg"
+  },
+  {
+    "sku": "BOOM-075-tapete-2-en-1",
+    "ref": "48051",
+    "name": "Tapete 2 en 1 Piano - Batería",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48051.",
+    "imagen": "BOOM-075-tapete-2-en-1.jpg"
+  },
+  {
+    "sku": "BOOM-076-munecos-pop-one-piece",
+    "ref": "72051",
+    "name": "Muñecos POP One Piece",
+    "price": 25000,
+    "estado": "Disponible",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 72051.",
+    "imagen": "BOOM-076-munecos-pop-one-piece.jpg"
+  },
+  {
+    "sku": "BOOM-077-mario-yoshi",
+    "ref": "13009",
+    "name": "Mario Yoshi",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13009.",
+    "imagen": "BOOM-077-mario-yoshi.jpg"
+  },
+  {
+    "sku": "BOOM-078-set-spider-man-lego",
+    "ref": "13289",
+    "name": "Set Spider-Man Lego",
+    "price": 38000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13289.",
+    "imagen": "BOOM-078-set-spider-man-lego.jpg"
+  },
+  {
+    "sku": "BOOM-079-set-minecraft-lego",
+    "ref": "13289",
+    "name": "Set Minecraft lego",
+    "price": 38000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13289.",
+    "imagen": "BOOM-079-set-minecraft-lego.jpg"
+  },
+  {
+    "sku": "BOOM-080-set-plantas-vs-zombis",
+    "ref": "13289",
+    "name": "Set Plantas vs Zombis lego",
+    "price": 38000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13289.",
+    "imagen": "BOOM-080-set-plantas-vs-zombis.jpg"
+  },
+  {
+    "sku": "BOOM-081-set-dragon-ball-lego",
+    "ref": "13289",
+    "name": "Set Dragon Ball Lego",
+    "price": 38000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13289.",
+    "imagen": "BOOM-081-set-dragon-ball-lego.jpg"
+  },
+  {
+    "sku": "BOOM-082-cubos-magneticos-minecraft-40",
+    "ref": "24280",
+    "name": "Cubos Magnéticos Minecraft 40 Pcs",
+    "price": 48000,
+    "estado": "AGOTADO",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24280.",
+    "imagen": "BOOM-082-cubos-magneticos-minecraft-40.jpg"
+  },
+  {
+    "sku": "BOOM-083-cubos-minecraft-magneticos",
+    "ref": "37451",
+    "name": "Cubos Minecraft Magnéticos",
+    "price": 75000,
+    "estado": "AGOTADO",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37451.",
+    "imagen": "BOOM-083-cubos-minecraft-magneticos.jpg"
+  },
+  {
+    "sku": "BOOM-084-cubos-magneticos-minecraft-130",
+    "ref": "41910.7",
+    "name": "Cubos Magnéticos Minecraft 130 Pcs",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41910.7.",
+    "imagen": "BOOM-084-cubos-magneticos-minecraft-130.jpg"
+  },
+  {
+    "sku": "BOOM-085-cubos-magneticos-minecraft-240",
+    "ref": "81860.2",
+    "name": "Cubos Magnéticos Minecraft 240 Pcs",
+    "price": 160000,
+    "estado": "AGOTADO",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81860.2.",
+    "imagen": "BOOM-085-cubos-magneticos-minecraft-240.jpg"
+  },
+  {
+    "sku": "BOOM-086-caja-500-pcs-lego",
+    "ref": "SIN_REF",
+    "name": "Caja 500 Pcs LEGO",
+    "price": 68000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-086-caja-500-pcs-lego.jpg"
+  },
+  {
+    "sku": "BOOM-087-caja-1000-pcs-lego",
+    "ref": "51520.3",
+    "name": "Caja 1000 PCs LEGO",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51520.3.",
+    "imagen": "BOOM-087-caja-1000-pcs-lego.jpg"
+  },
+  {
+    "sku": "BOOM-088-lego-torre-de-pisa",
+    "ref": "41020.9",
+    "name": "LEGO Torre De Pisa 2680 PCs",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41020.9.",
+    "imagen": "BOOM-088-lego-torre-de-pisa.jpg"
+  },
+  {
+    "sku": "BOOM-089-lego-stranger-things",
+    "ref": "62521",
+    "name": "LEGO Stranger Things",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 62521.",
+    "imagen": "BOOM-089-lego-stranger-things.jpg"
+  },
+  {
+    "sku": "BOOM-090-lego-minecraft",
+    "ref": "62521",
+    "name": "LEGO Minecraft",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 62521.",
+    "imagen": "BOOM-090-lego-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-091-lego-minecraft",
+    "ref": "62521",
+    "name": "LEGO Minecraft",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 62521.",
+    "imagen": "BOOM-091-lego-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-092-lego-one-piece",
+    "ref": "93001",
+    "name": "Lego One Piece",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 93001.",
+    "imagen": "BOOM-092-lego-one-piece.jpg"
+  },
+  {
+    "sku": "BOOM-093-lego-starwars",
+    "ref": "14851",
+    "name": "Lego StarWars",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-093-lego-starwars.jpg"
+  },
+  {
+    "sku": "BOOM-094-lego-starwars",
+    "ref": "14851",
+    "name": "Lego StarWars",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-094-lego-starwars.jpg"
+  },
+  {
+    "sku": "BOOM-095-lego-spiderman",
+    "ref": "14851",
+    "name": "Lego Spiderman",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-095-lego-spiderman.jpg"
+  },
+  {
+    "sku": "BOOM-096-lego-wolverine",
+    "ref": "14851",
+    "name": "LEGO Wolverine",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-096-lego-wolverine.jpg"
+  },
+  {
+    "sku": "BOOM-097-lego-spiderman",
+    "ref": "14851",
+    "name": "Lego Spiderman",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-097-lego-spiderman.jpg"
+  },
+  {
+    "sku": "BOOM-098-lego-snoopy",
+    "ref": "36159",
+    "name": "LEGO snoopy",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36159.",
+    "imagen": "BOOM-098-lego-snoopy.jpg"
+  },
+  {
+    "sku": "BOOM-099-lego-carro-deportivo",
+    "ref": "39451",
+    "name": "LEGO Carro Deportivo",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39451.",
+    "imagen": "BOOM-099-lego-carro-deportivo.jpg"
+  },
+  {
+    "sku": "BOOM-100-lego-carro-deportivo",
+    "ref": "39452",
+    "name": "LEGO Carro Deportivo",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39452.",
+    "imagen": "BOOM-100-lego-carro-deportivo.jpg"
+  },
+  {
+    "sku": "BOOM-101-lego-carro-deportivo",
+    "ref": "39453",
+    "name": "LEGO Carro Deportivo",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39453.",
+    "imagen": "BOOM-101-lego-carro-deportivo.jpg"
+  },
+  {
+    "sku": "BOOM-102-lego-carro-deportivo",
+    "ref": "81770.1",
+    "name": "LEGO Carro Deportivo",
+    "price": 170000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81770.1.",
+    "imagen": "BOOM-102-lego-carro-deportivo.jpg"
+  },
+  {
+    "sku": "BOOM-103-lego-rey-leon",
+    "ref": "36251",
+    "name": "LEGO Rey Leon",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36251.",
+    "imagen": "BOOM-103-lego-rey-leon.jpg"
+  },
+  {
+    "sku": "BOOM-104-lego-avion-guerra",
+    "ref": "71045.9",
+    "name": "Lego Avión Guerra",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71045.9.",
+    "imagen": "BOOM-104-lego-avion-guerra.jpg"
+  },
+  {
+    "sku": "BOOM-105-lego-formula-1-1380pcs",
+    "ref": "12335.9",
+    "name": "Lego Fórmula 1 1380pcs",
+    "price": 235000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12335.9.",
+    "imagen": "BOOM-105-lego-formula-1-1380pcs.jpg"
+  },
+  {
+    "sku": "BOOM-106-lego-formula-1",
+    "ref": "48451",
+    "name": "LEGO Fórmula 1",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48451.",
+    "imagen": "BOOM-106-lego-formula-1.jpg"
+  },
+  {
+    "sku": "BOOM-107-lego-baby-yoda-1048pcs",
+    "ref": "71845.9",
+    "name": "LEGO Baby Yoda 1048pcs",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71845.9.",
+    "imagen": "BOOM-107-lego-baby-yoda-1048pcs.jpg"
+  },
+  {
+    "sku": "BOOM-108-lego-one-piece-926pcs",
+    "ref": "12435.9",
+    "name": "LEGO One Piece 926pcs",
+    "price": 235000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12435.9.",
+    "imagen": "BOOM-108-lego-one-piece-926pcs.jpg"
+  },
+  {
+    "sku": "BOOM-109-lego-nave-batman",
+    "ref": "39951",
+    "name": "LEGO Nave Batman",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39951.",
+    "imagen": "BOOM-109-lego-nave-batman.jpg"
+  },
+  {
+    "sku": "BOOM-110-lego-nave-star-wars",
+    "ref": "61240.9",
+    "name": "Lego Nave Star Wars",
+    "price": 140000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61240.9.",
+    "imagen": "BOOM-110-lego-nave-star-wars.jpg"
+  },
+  {
+    "sku": "BOOM-111-lego-star-wars",
+    "ref": "11080.9",
+    "name": "Lego Star Wars",
+    "price": 180000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11080.9.",
+    "imagen": "BOOM-111-lego-star-wars.jpg"
+  },
+  {
+    "sku": "BOOM-112-lego-carro-batman-448",
+    "ref": "49551",
+    "name": "LEGO Carro Batman 448 PCs",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49551.",
+    "imagen": "BOOM-112-lego-carro-batman-448.jpg"
+  },
+  {
+    "sku": "BOOM-113-lego-laboratorio-ironman-608",
+    "ref": "41820.9",
+    "name": "LEGO Laboratorio Ironman 608 PCs",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41820.9.",
+    "imagen": "BOOM-113-lego-laboratorio-ironman-608.jpg"
+  },
+  {
+    "sku": "BOOM-114-lego-barco-one-piece",
+    "ref": "51520.9",
+    "name": "Lego Barco One Piece 432 pcs",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51520.9.",
+    "imagen": "BOOM-114-lego-barco-one-piece.jpg"
+  },
+  {
+    "sku": "BOOM-115-lego-chimuelo",
+    "ref": "41710.9",
+    "name": "Lego Chimuelo",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41710.9.",
+    "imagen": "BOOM-115-lego-chimuelo.jpg"
+  },
+  {
+    "sku": "BOOM-116-lego-carro-deportivo",
+    "ref": "51510.3",
+    "name": "Lego Carro Deportivo",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51510.3.",
+    "imagen": "BOOM-116-lego-carro-deportivo.jpg"
+  },
+  {
+    "sku": "BOOM-117-lego-barco-militar",
+    "ref": "51510.3",
+    "name": "Lego Barco Militar",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51510.3.",
+    "imagen": "BOOM-117-lego-barco-militar.jpg"
+  },
+  {
+    "sku": "BOOM-118-lego-carro-policia-control",
+    "ref": "51510.3",
+    "name": "Lego Carro Policia Control",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51510.3.",
+    "imagen": "BOOM-118-lego-carro-policia-control.jpg"
+  },
+  {
+    "sku": "BOOM-119-lego-helicoptero-militar",
+    "ref": "71045.1",
+    "name": "Lego Helicoptero Militar",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71045.1.",
+    "imagen": "BOOM-119-lego-helicoptero-militar.jpg"
+  },
+  {
+    "sku": "BOOM-120-lego-avion-militar",
+    "ref": "14853",
+    "name": "Lego Avion Militar",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14853.",
+    "imagen": "BOOM-120-lego-avion-militar.jpg"
+  },
+  {
+    "sku": "BOOM-121-lego-minecraft",
+    "ref": "48551",
+    "name": "Lego Minecraft",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48551.",
+    "imagen": "BOOM-121-lego-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-122-lego-tanque-militar",
+    "ref": "39601",
+    "name": "Lego Tanque Militar",
+    "price": 90000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39601.",
+    "imagen": "BOOM-122-lego-tanque-militar.jpg"
+  },
+  {
+    "sku": "BOOM-123-mula-pista-luz-y",
+    "ref": "36951",
+    "name": "Mula Pista Luz y Sonido",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36951.",
+    "imagen": "BOOM-123-mula-pista-luz-y.jpg"
+  },
+  {
+    "sku": "BOOM-124-carro-k-pop-control",
+    "ref": "91590.1",
+    "name": "Carro k-Pop Control Remoto 1 Mt",
+    "price": 190000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91590.1.",
+    "imagen": "BOOM-124-carro-k-pop-control.jpg"
+  },
+  {
+    "sku": "BOOM-125-mula-safari",
+    "ref": "61335.9",
+    "name": "Mula Safari",
+    "price": 135000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61335.9.",
+    "imagen": "BOOM-125-mula-safari.jpg"
+  },
+  {
+    "sku": "BOOM-126-mula-dinosaurios",
+    "ref": "61335.1",
+    "name": "Mula Dinosaurios",
+    "price": 135000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61335.1.",
+    "imagen": "BOOM-126-mula-dinosaurios.jpg"
+  },
+  {
+    "sku": "BOOM-127-barco-pirata",
+    "ref": "38951",
+    "name": "Barco Pirata",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38951.",
+    "imagen": "BOOM-127-barco-pirata.jpg"
+  },
+  {
+    "sku": "BOOM-128-barco-pirata",
+    "ref": "38951",
+    "name": "Barco Pirata",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38951.",
+    "imagen": "BOOM-128-barco-pirata.jpg"
+  },
+  {
+    "sku": "BOOM-129-burbujeros-pistola",
+    "ref": "13109",
+    "name": "Burbujeros Pistola",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13109.",
+    "imagen": "BOOM-129-burbujeros-pistola.jpg"
+  },
+  {
+    "sku": "BOOM-130-carpa-castillo",
+    "ref": "25501",
+    "name": "Carpa Castillo",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25501.",
+    "imagen": "BOOM-130-carpa-castillo.jpg"
+  },
+  {
+    "sku": "BOOM-131-carpa-castillo",
+    "ref": "25501",
+    "name": "Carpa Castillo",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25501.",
+    "imagen": "BOOM-131-carpa-castillo.jpg"
+  },
+  {
+    "sku": "BOOM-132-carpa-playera",
+    "ref": "14553",
+    "name": "Carpa Playera",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14553.",
+    "imagen": "BOOM-132-carpa-playera.jpg"
+  },
+  {
+    "sku": "BOOM-133-carpa-3-en-1",
+    "ref": "61430.9",
+    "name": "Carpa 3 en 1",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61430.9.",
+    "imagen": "BOOM-133-carpa-3-en-1.jpg"
+  },
+  {
+    "sku": "BOOM-134-carpa-3-en-1",
+    "ref": "61430.9",
+    "name": "Carpa 3 en 1",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61430.9.",
+    "imagen": "BOOM-134-carpa-3-en-1.jpg"
+  },
+  {
+    "sku": "BOOM-135-coche-con-muneca",
+    "ref": "49501",
+    "name": "Coche Con Muñeca",
+    "price": 90000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49501.",
+    "imagen": "BOOM-135-coche-con-muneca.jpg"
+  },
+  {
+    "sku": "BOOM-136-coche-paseador-gde",
+    "ref": "71035.9",
+    "name": "Coche Paseador Gde",
+    "price": 135000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71035.9.",
+    "imagen": "BOOM-136-coche-paseador-gde.jpg"
+  },
+  {
+    "sku": "BOOM-137-coche-moises-med",
+    "ref": "49351",
+    "name": "Coche Moisés Med",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49351.",
+    "imagen": "BOOM-137-coche-moises-med.jpg"
+  },
+  {
+    "sku": "BOOM-138-coche-moises-gde",
+    "ref": "61230.9",
+    "name": "Coche Moisés Gde",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61230.9.",
+    "imagen": "BOOM-138-coche-moises-gde.jpg"
+  },
+  {
+    "sku": "BOOM-139-coche-moises-med",
+    "ref": "49251",
+    "name": "Coche Moisés Med",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49251.",
+    "imagen": "BOOM-139-coche-moises-med.jpg"
+  },
+  {
+    "sku": "BOOM-140-maleta-set-doctor",
+    "ref": "25651",
+    "name": "Maleta Set Doctor",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25651.",
+    "imagen": "BOOM-140-maleta-set-doctor.jpg"
+  },
+  {
+    "sku": "BOOM-141-maleta-tocador",
+    "ref": "25651",
+    "name": "Maleta Tocador",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25651.",
+    "imagen": "BOOM-141-maleta-tocador.jpg"
+  },
+  {
+    "sku": "BOOM-142-maleta-cocina",
+    "ref": "25651",
+    "name": "Maleta Cocina",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25651.",
+    "imagen": "BOOM-142-maleta-cocina.jpg"
+  },
+  {
+    "sku": "BOOM-143-registradora-banda-deslizadora",
+    "ref": "41720.9",
+    "name": "Registradora Banda Deslizadora",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41720.9.",
+    "imagen": "BOOM-143-registradora-banda-deslizadora.jpg"
+  },
+  {
+    "sku": "BOOM-144-registradora-banda-deslizadora",
+    "ref": "41720.9",
+    "name": "Registradora Banda Deslizadora",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41720.9.",
+    "imagen": "BOOM-144-registradora-banda-deslizadora.jpg"
+  },
+  {
+    "sku": "BOOM-145-registradora-mercado",
+    "ref": "38801",
+    "name": "Registradora Mercado",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38801.",
+    "imagen": "BOOM-145-registradora-mercado.jpg"
+  },
+  {
+    "sku": "BOOM-146-registradora-banda-deslizadora-gde",
+    "ref": "81055.9",
+    "name": "Registradora Banda Deslizadora Gde",
+    "price": 155000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81055.9.",
+    "imagen": "BOOM-146-registradora-banda-deslizadora-gde.jpg"
+  },
+  {
+    "sku": "BOOM-147-titere-boxeador",
+    "ref": "24051",
+    "name": "Titere Boxeador",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-147-titere-boxeador.jpg"
+  },
+  {
+    "sku": "BOOM-148-titere-boxeador",
+    "ref": "24051",
+    "name": "Títere Boxeador",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-148-titere-boxeador.jpg"
+  },
+  {
+    "sku": "BOOM-149-titere-boxeador",
+    "ref": "24051",
+    "name": "Títere Boxeador",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-149-titere-boxeador.jpg"
+  },
+  {
+    "sku": "BOOM-150-titere-boxeador",
+    "ref": "24051",
+    "name": "Títere Boxeador",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-150-titere-boxeador.jpg"
+  },
+  {
+    "sku": "BOOM-151-perrito-caminador",
+    "ref": "13309",
+    "name": "Perrito Caminador",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13309.",
+    "imagen": "BOOM-151-perrito-caminador.jpg"
+  },
+  {
+    "sku": "BOOM-152-perrito-caminador",
+    "ref": "13309",
+    "name": "Perrito Caminador",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13309.",
+    "imagen": "BOOM-152-perrito-caminador.jpg"
+  },
+  {
+    "sku": "BOOM-153-perrito-caminador",
+    "ref": "13309",
+    "name": "Perrito Caminador",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13309.",
+    "imagen": "BOOM-153-perrito-caminador.jpg"
+  },
+  {
+    "sku": "BOOM-154-conejo-saltarin",
+    "ref": "83501",
+    "name": "Conejo Saltarín",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 83501.",
+    "imagen": "BOOM-154-conejo-saltarin.jpg"
+  },
+  {
+    "sku": "BOOM-155-conejo-saltarin",
+    "ref": "83501",
+    "name": "Conejo Saltarín",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 83501.",
+    "imagen": "BOOM-155-conejo-saltarin.jpg"
+  },
+  {
+    "sku": "BOOM-156-juego-swinging-ball",
+    "ref": "36151",
+    "name": "Juego Swinging Ball",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36151.",
+    "imagen": "BOOM-156-juego-swinging-ball.jpg"
+  },
+  {
+    "sku": "BOOM-157-torre-paw-patrol-x",
+    "ref": "61030.1",
+    "name": "Torre Paw Patrol x 12",
+    "price": 135000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61030.1.",
+    "imagen": "BOOM-157-torre-paw-patrol-x.jpg"
+  },
+  {
+    "sku": "BOOM-158-mesa-billar-madera",
+    "ref": "12340.9",
+    "name": "Mesa Billar Madera",
+    "price": 240000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12340.9.",
+    "imagen": "BOOM-158-mesa-billar-madera.jpg"
+  },
+  {
+    "sku": "BOOM-159-futbolin-madera",
+    "ref": "92510.4",
+    "name": "Futbolin Madera",
+    "price": 210000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 92510.4.",
+    "imagen": "BOOM-159-futbolin-madera.jpg"
+  },
+  {
+    "sku": "BOOM-160-set-herramientas-gde",
+    "ref": "49281",
+    "name": "Set Herramientas Gde",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49281.",
+    "imagen": "BOOM-160-set-herramientas-gde.jpg"
+  },
+  {
+    "sku": "BOOM-161-set-doctor-gde",
+    "ref": "49281",
+    "name": "Set Doctor Gde",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49281.",
+    "imagen": "BOOM-161-set-doctor-gde.jpg"
+  },
+  {
+    "sku": "BOOM-162-maleta-veterinario-perrito",
+    "ref": "49481",
+    "name": "Maleta Veterinario Perrito",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49481.",
+    "imagen": "BOOM-162-maleta-veterinario-perrito.jpg"
+  },
+  {
+    "sku": "BOOM-163-maleta-veterinario-gato",
+    "ref": "49481",
+    "name": "Maleta Veterinario Gato",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49481.",
+    "imagen": "BOOM-163-maleta-veterinario-gato.jpg"
+  },
+  {
+    "sku": "BOOM-164-maleta-veterinario",
+    "ref": "51920.1",
+    "name": "Maleta Veterinario",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51920.1.",
+    "imagen": "BOOM-164-maleta-veterinario.jpg"
+  },
+  {
+    "sku": "BOOM-165-castillo-princesas",
+    "ref": "71145.9",
+    "name": "Castillo Princesas",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71145.9.",
+    "imagen": "BOOM-165-castillo-princesas.jpg"
+  },
+  {
+    "sku": "BOOM-166-casa-munecas-gaby",
+    "ref": "SIN_REF",
+    "name": "Casa Muñecas Gaby",
+    "price": 160000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-166-casa-munecas-gaby.jpg"
+  },
+  {
+    "sku": "BOOM-167-casa-munecas",
+    "ref": "71760.9",
+    "name": "Casa Muñecas",
+    "price": 160000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 71760.9.",
+    "imagen": "BOOM-167-casa-munecas.jpg"
+  },
+  {
+    "sku": "BOOM-168-casa-munecas",
+    "ref": "61145.9",
+    "name": "Casa Muñecas",
+    "price": 145000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61145.9.",
+    "imagen": "BOOM-168-casa-munecas.jpg"
+  },
+  {
+    "sku": "BOOM-169-casa-munecas-luxury-villa",
+    "ref": "13510.9",
+    "name": "Casa Muñecas Luxury Villa",
+    "price": 310000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13510.9.",
+    "imagen": "BOOM-169-casa-munecas-luxury-villa.jpg"
+  },
+  {
+    "sku": "BOOM-170-casa-munecas-big-villas",
+    "ref": "61550.9",
+    "name": "Casa Muñecas Big Villas",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61550.9.",
+    "imagen": "BOOM-170-casa-munecas-big-villas.jpg"
+  },
+  {
+    "sku": "BOOM-171-cocina-humo-2-en",
+    "ref": "61640.9",
+    "name": "Cocina Humo 2 en 1 Plancha",
+    "price": 140000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61640.9.",
+    "imagen": "BOOM-171-cocina-humo-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-172-set-cocina-funcional-med",
+    "ref": "49481",
+    "name": "Set Cocina Funcional Med",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49481.",
+    "imagen": "BOOM-172-set-cocina-funcional-med.jpg"
+  },
+  {
+    "sku": "BOOM-173-set-cocina-funcional-vapor",
+    "ref": "61750.9",
+    "name": "Set Cocina Funcional Vapor",
+    "price": 150000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61750.9.",
+    "imagen": "BOOM-173-set-cocina-funcional-vapor.jpg"
+  },
+  {
+    "sku": "BOOM-174-set-cocina-funcional-helados",
+    "ref": "12280.9",
+    "name": "Set Cocina Funcional Helados",
+    "price": 260000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12280.9.",
+    "imagen": "BOOM-174-set-cocina-funcional-helados.jpg"
+  },
+  {
+    "sku": "BOOM-175-set-cocina-funcional-105",
+    "ref": "12280.9",
+    "name": "Set Cocina Funcional 1.05 mt Alto",
+    "price": 280000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12280.9.",
+    "imagen": "BOOM-175-set-cocina-funcional-105.jpg"
+  },
+  {
+    "sku": "BOOM-176-set-cocina-funcional-105",
+    "ref": "12280.9",
+    "name": "Set Cocina Funcional 1.05 mt Alto",
+    "price": 280000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12280.9.",
+    "imagen": "BOOM-176-set-cocina-funcional-105.jpg"
+  },
+  {
+    "sku": "BOOM-177-carro-bombero",
+    "ref": "37581",
+    "name": "Carro Bombero",
+    "price": 78000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37581.",
+    "imagen": "BOOM-177-carro-bombero.jpg"
+  },
+  {
+    "sku": "BOOM-178-carro-bombero",
+    "ref": "37581",
+    "name": "Carro Bombero",
+    "price": 78000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37581.",
+    "imagen": "BOOM-178-carro-bombero.jpg"
+  },
+  {
+    "sku": "BOOM-179-camper-playero-barbie",
+    "ref": "48951",
+    "name": "Camper Playero Barbie",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48951.",
+    "imagen": "BOOM-179-camper-playero-barbie.jpg"
+  },
+  {
+    "sku": "BOOM-180-carro-monster-nina",
+    "ref": "51510.9",
+    "name": "Carro Monster Niña",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51510.9.",
+    "imagen": "BOOM-180-carro-monster-nina.jpg"
+  },
+  {
+    "sku": "BOOM-181-muneca-k-pop-control",
+    "ref": "91690.1",
+    "name": "Muñeca K-Pop Control Remoto",
+    "price": 190000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91690.1.",
+    "imagen": "BOOM-181-muneca-k-pop-control.jpg"
+  },
+  {
+    "sku": "BOOM-182-muneca-k-pop-patineta",
+    "ref": "59051",
+    "name": "Muñeca K-Pop Patineta",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59051.",
+    "imagen": "BOOM-182-muneca-k-pop-patineta.jpg"
+  },
+  {
+    "sku": "BOOM-183-muneca-k-pop-patineta",
+    "ref": "59051",
+    "name": "Muñeca K-Pop Patineta",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59051.",
+    "imagen": "BOOM-183-muneca-k-pop-patineta.jpg"
+  },
+  {
+    "sku": "BOOM-184-carro-control-nina",
+    "ref": "61020.9",
+    "name": "Carro Control Niña",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61020.9.",
+    "imagen": "BOOM-184-carro-control-nina.jpg"
+  },
+  {
+    "sku": "BOOM-185-carro-control-barbie-humo",
+    "ref": "11060.8",
+    "name": "Carro Control Barbie (Humo)",
+    "price": 160000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11060.8.",
+    "imagen": "BOOM-185-carro-control-barbie-humo.jpg"
+  },
+  {
+    "sku": "BOOM-186-carro-k-pop-control",
+    "ref": "12210.9",
+    "name": "Carro k-Pop Control Remoto",
+    "price": 210000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12210.9.",
+    "imagen": "BOOM-186-carro-k-pop-control.jpg"
+  },
+  {
+    "sku": "BOOM-187-carro-k-pop-control",
+    "ref": "12210.9",
+    "name": "Carro k-Pop Control Remoto",
+    "price": 210000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12210.9.",
+    "imagen": "BOOM-187-carro-k-pop-control.jpg"
+  },
+  {
+    "sku": "BOOM-188-pista-dinosaurio-t-rex",
+    "ref": "61430.1",
+    "name": "Pista Dinosaurio T-Rex Peq",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61430.1.",
+    "imagen": "BOOM-188-pista-dinosaurio-t-rex.jpg"
+  },
+  {
+    "sku": "BOOM-189-pista-dinosaurio-t-rex",
+    "ref": "91390.1",
+    "name": "Pista Dinosaurio T-Rex Med",
+    "price": 190000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91390.1.",
+    "imagen": "BOOM-189-pista-dinosaurio-t-rex.jpg"
+  },
+  {
+    "sku": "BOOM-190-pista-dinosaurio-t-rex",
+    "ref": "12260.9",
+    "name": "Pista Dinosaurio T-Rex Gde",
+    "price": 260000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12260.9.",
+    "imagen": "BOOM-190-pista-dinosaurio-t-rex.jpg"
+  },
+  {
+    "sku": "BOOM-191-pista-parqueadero-cocodrilo-2",
+    "ref": "26501",
+    "name": "Pista Parqueadero Cocodrilo 2 en 1",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26501.",
+    "imagen": "BOOM-191-pista-parqueadero-cocodrilo-2.jpg"
+  },
+  {
+    "sku": "BOOM-192-pista-parqueadero-tiburon-2",
+    "ref": "26501",
+    "name": "Pista Parqueadero Tiburon 2 en 1",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26501.",
+    "imagen": "BOOM-192-pista-parqueadero-tiburon-2.jpg"
+  },
+  {
+    "sku": "BOOM-193-pista-parqueadero-cocodrilo-2",
+    "ref": "41510.9",
+    "name": "Pista Parqueadero Cocodrilo 2 en 1 Gde",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-193-pista-parqueadero-cocodrilo-2.jpg"
+  },
+  {
+    "sku": "BOOM-194-pista-parqueadero-tiburon-2",
+    "ref": "41510.9",
+    "name": "Pista Parqueadero Tiburon 2 en 1 Gde",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-194-pista-parqueadero-tiburon-2.jpg"
+  },
+  {
+    "sku": "BOOM-195-pista-parqueadero-2-en",
+    "ref": "91690.1",
+    "name": "Pista Parqueadero 2 en 1",
+    "price": 190000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91690.1.",
+    "imagen": "BOOM-195-pista-parqueadero-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-196-pista-carros-2-en",
+    "ref": "41510.9",
+    "name": "Pista Carros 2 en 1",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-196-pista-carros-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-197-pista-tipo-hotwheels-llanta",
+    "ref": "39901",
+    "name": "Pista Tipo Hotwheels Llanta",
+    "price": 90000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 39901.",
+    "imagen": "BOOM-197-pista-tipo-hotwheels-llanta.jpg"
+  },
+  {
+    "sku": "BOOM-198-estacion-bomberos-2-en",
+    "ref": "41310.3",
+    "name": "Estácion Bomberos 2 en 1",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41310.3.",
+    "imagen": "BOOM-198-estacion-bomberos-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-199-gasolinera-x-4-carros",
+    "ref": "37001",
+    "name": "Gasolinera x 4 Carros Met",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37001.",
+    "imagen": "BOOM-199-gasolinera-x-4-carros.jpg"
+  },
+  {
+    "sku": "BOOM-200-parqueadero-x-4-carros",
+    "ref": "37001",
+    "name": "Parqueadero x 4 Carros Met",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37001.",
+    "imagen": "BOOM-200-parqueadero-x-4-carros.jpg"
+  },
+  {
+    "sku": "BOOM-201-pista-hotwheels-360",
+    "ref": "61540.1",
+    "name": "Pista Hotwheels 360",
+    "price": 140000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61540.1.",
+    "imagen": "BOOM-201-pista-hotwheels-360.jpg"
+  },
+  {
+    "sku": "BOOM-202-pista-hotwheels-dinosaurio",
+    "ref": "41510.2",
+    "name": "Pista Hotwheels Dinosaurio",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.2.",
+    "imagen": "BOOM-202-pista-hotwheels-dinosaurio.jpg"
+  },
+  {
+    "sku": "BOOM-203-pista-hotwheels-jaguar",
+    "ref": "41610.3",
+    "name": "Pista Hotwheels Jaguar",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41610.3.",
+    "imagen": "BOOM-203-pista-hotwheels-jaguar.jpg"
+  },
+  {
+    "sku": "BOOM-204-pista-hotwheels-arana",
+    "ref": "61035.9",
+    "name": "Pista Hotwheels Araña",
+    "price": 135000,
+    "estado": "AGOTADO",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61035.9.",
+    "imagen": "BOOM-204-pista-hotwheels-arana.jpg"
+  },
+  {
+    "sku": "BOOM-205-pista-hotwheels-dino",
+    "ref": "11095.3",
+    "name": "Pista Hotwheels Dino",
+    "price": 195000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11095.3.",
+    "imagen": "BOOM-205-pista-hotwheels-dino.jpg"
+  },
+  {
+    "sku": "BOOM-206-pista-2-en-1",
+    "ref": "61530.4",
+    "name": "Pista 2 en 1 Hotwheels Dino",
+    "price": 130000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61530.4.",
+    "imagen": "BOOM-206-pista-2-en-1.jpg"
+  },
+  {
+    "sku": "BOOM-207-pista-2-en-1",
+    "ref": "51010.3",
+    "name": "Pista 2 en 1 Hotwheels Dino",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51010.3.",
+    "imagen": "BOOM-207-pista-2-en-1.jpg"
+  },
+  {
+    "sku": "BOOM-208-pista-canicas-402-pcs",
+    "ref": "41210.9",
+    "name": "Pista Canicas 402 PCs",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41210.9.",
+    "imagen": "BOOM-208-pista-canicas-402-pcs.jpg"
+  },
+  {
+    "sku": "BOOM-209-pista-canicas-402-pcs",
+    "ref": "41210.9",
+    "name": "Pista Canicas 402 PCs",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41210.9.",
+    "imagen": "BOOM-209-pista-canicas-402-pcs.jpg"
+  },
+  {
+    "sku": "BOOM-210-bloques-magneticos-126-pcs",
+    "ref": "81565.9",
+    "name": "Bloques Magnéticos 126 PCs Gde",
+    "price": 165000,
+    "estado": "Disponible",
+    "categoria": "Construccion",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81565.9.",
+    "imagen": "BOOM-210-bloques-magneticos-126-pcs.jpg"
+  },
+  {
+    "sku": "BOOM-211-mario-bros",
+    "ref": "26851",
+    "name": "Mario Bros",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26851.",
+    "imagen": "BOOM-211-mario-bros.jpg"
+  },
+  {
+    "sku": "BOOM-212-yoshi",
+    "ref": "26852",
+    "name": "Yoshi",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26852.",
+    "imagen": "BOOM-212-yoshi.jpg"
+  },
+  {
+    "sku": "BOOM-213-luigi",
+    "ref": "26853",
+    "name": "Luigi",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26853.",
+    "imagen": "BOOM-213-luigi.jpg"
+  },
+  {
+    "sku": "BOOM-214-mario-bros-musical",
+    "ref": "48051",
+    "name": "Mario Bros Musical",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48051.",
+    "imagen": "BOOM-214-mario-bros-musical.jpg"
+  },
+  {
+    "sku": "BOOM-215-woody-peluche",
+    "ref": "14801",
+    "name": "Woody Peluche",
+    "price": 40000,
+    "estado": "Disponible",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14801.",
+    "imagen": "BOOM-215-woody-peluche.jpg"
+  },
+  {
+    "sku": "BOOM-216-carros-mario-kart",
+    "ref": "12259",
+    "name": "Carros Mario kart",
+    "price": 25000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12259.",
+    "imagen": "BOOM-216-carros-mario-kart.jpg"
+  },
+  {
+    "sku": "BOOM-217-carros-metalicos-avengers",
+    "ref": "26801",
+    "name": "Carros Metálicos Avengers",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26801.",
+    "imagen": "BOOM-217-carros-metalicos-avengers.jpg"
+  },
+  {
+    "sku": "BOOM-218-peluche-minecraft",
+    "ref": "13259",
+    "name": "Peluche Minecraft",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13259.",
+    "imagen": "BOOM-218-peluche-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-219-peluche-minecraft",
+    "ref": "13259",
+    "name": "Peluche Minecraft",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13259.",
+    "imagen": "BOOM-219-peluche-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-220-peluche-toy-story",
+    "ref": "13281",
+    "name": "Peluche Toy Story",
+    "price": 35000,
+    "estado": "AGOTADO",
+    "categoria": "Peluches",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13281.",
+    "imagen": "BOOM-220-peluche-toy-story.jpg"
+  },
+  {
+    "sku": "BOOM-221-juego-topos",
+    "ref": "24081",
+    "name": "Juego Topos",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24081.",
+    "imagen": "BOOM-221-juego-topos.jpg"
+  },
+  {
+    "sku": "BOOM-222-timon-carro-2-en",
+    "ref": "41510.9",
+    "name": "Timón Carro 2 en 1",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Vehiculos y Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41510.9.",
+    "imagen": "BOOM-222-timon-carro-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-223-abejita-musical",
+    "ref": "36351",
+    "name": "Abejita Musical",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36351.",
+    "imagen": "BOOM-223-abejita-musical.jpg"
+  },
+  {
+    "sku": "BOOM-224-abejita-musical",
+    "ref": "26251",
+    "name": "Abejita Musical",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26251.",
+    "imagen": "BOOM-224-abejita-musical.jpg"
+  },
+  {
+    "sku": "BOOM-225-avion-musical-infantil",
+    "ref": "26751",
+    "name": "Avion Musical Infantil",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26751.",
+    "imagen": "BOOM-225-avion-musical-infantil.jpg"
+  },
+  {
+    "sku": "BOOM-226-avion-musical-gde",
+    "ref": "37351",
+    "name": "Avión Musical Gde",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-226-avion-musical-gde.jpg"
+  },
+  {
+    "sku": "BOOM-227-avion-musical-peq",
+    "ref": "24381",
+    "name": "Avión Musical Peq",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24381.",
+    "imagen": "BOOM-227-avion-musical-peq.jpg"
+  },
+  {
+    "sku": "BOOM-228-dino-humo",
+    "ref": "26251",
+    "name": "Dino Humo",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26251.",
+    "imagen": "BOOM-228-dino-humo.jpg"
+  },
+  {
+    "sku": "BOOM-229-sonic-bailarin",
+    "ref": "36051",
+    "name": "Sonic Bailarín",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36051.",
+    "imagen": "BOOM-229-sonic-bailarin.jpg"
+  },
+  {
+    "sku": "BOOM-230-snoopy-bailarin",
+    "ref": "36051",
+    "name": "Snoopy Bailarin",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36051.",
+    "imagen": "BOOM-230-snoopy-bailarin.jpg"
+  },
+  {
+    "sku": "BOOM-231-stich-musical-repite",
+    "ref": "26651",
+    "name": "Stich Musical Repite",
+    "price": 65000,
+    "estado": "AGOTADO",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26651.",
+    "imagen": "BOOM-231-stich-musical-repite.jpg"
+  },
+  {
+    "sku": "BOOM-232-bluey-balarin-musical-repite",
+    "ref": "26651",
+    "name": "Bluey Balarin Musical Repite",
+    "price": 65000,
+    "estado": "AGOTADO",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26651.",
+    "imagen": "BOOM-232-bluey-balarin-musical-repite.jpg"
+  },
+  {
+    "sku": "BOOM-233-minions-bailarin",
+    "ref": "25201",
+    "name": "Minions Bailarin",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-233-minions-bailarin.jpg"
+  },
+  {
+    "sku": "BOOM-234-bombero-pista-paticos",
+    "ref": "36951",
+    "name": "Bombero Pista Paticos",
+    "price": 80000,
+    "estado": "AGOTADO",
+    "categoria": "Pistas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36951.",
+    "imagen": "BOOM-234-bombero-pista-paticos.jpg"
+  },
+  {
+    "sku": "BOOM-235-unicornio-musical",
+    "ref": "27801",
+    "name": "Unicornio Musical",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 27801.",
+    "imagen": "BOOM-235-unicornio-musical.jpg"
+  },
+  {
+    "sku": "BOOM-236-unicornio-musical",
+    "ref": "27801",
+    "name": "Unicornio Musical",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 27801.",
+    "imagen": "BOOM-236-unicornio-musical.jpg"
+  },
+  {
+    "sku": "BOOM-237-barbie-moto",
+    "ref": "25301",
+    "name": "Barbie Moto",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25301.",
+    "imagen": "BOOM-237-barbie-moto.jpg"
+  },
+  {
+    "sku": "BOOM-238-cabeza-barbie-maquillaje",
+    "ref": "49501",
+    "name": "Cabeza Barbie Maquillaje",
+    "price": 90000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49501.",
+    "imagen": "BOOM-238-cabeza-barbie-maquillaje.jpg"
+  },
+  {
+    "sku": "BOOM-239-barbie-moto",
+    "ref": "37309",
+    "name": "Barbie Moto",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37309.",
+    "imagen": "BOOM-239-barbie-moto.jpg"
+  },
+  {
+    "sku": "BOOM-240-barbie-caballo",
+    "ref": "37401",
+    "name": "Barbie Caballo",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37401.",
+    "imagen": "BOOM-240-barbie-caballo.jpg"
+  },
+  {
+    "sku": "BOOM-241-barbie-playa",
+    "ref": "14851",
+    "name": "Barbie Playa",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14851.",
+    "imagen": "BOOM-241-barbie-playa.jpg"
+  },
+  {
+    "sku": "BOOM-242-barbie-profesora",
+    "ref": "24051",
+    "name": "Barbie Profesora",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-242-barbie-profesora.jpg"
+  },
+  {
+    "sku": "BOOM-243-barbie-enfermera",
+    "ref": "25351",
+    "name": "Barbie Enfermera",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25351.",
+    "imagen": "BOOM-243-barbie-enfermera.jpg"
+  },
+  {
+    "sku": "BOOM-244-barbie-corona",
+    "ref": "13009",
+    "name": "Barbie Corona",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13009.",
+    "imagen": "BOOM-244-barbie-corona.jpg"
+  },
+  {
+    "sku": "BOOM-245-barbie-vestidos",
+    "ref": "59581",
+    "name": "Barbie Vestidos",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59581.",
+    "imagen": "BOOM-245-barbie-vestidos.jpg"
+  },
+  {
+    "sku": "BOOM-246-muneca-sirena",
+    "ref": "38501",
+    "name": "Muñeca Sirena",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38501.",
+    "imagen": "BOOM-246-muneca-sirena.jpg"
+  },
+  {
+    "sku": "BOOM-247-muneca-zootopia-musical",
+    "ref": "26201",
+    "name": "Muñeca Zootopia Musical",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26201.",
+    "imagen": "BOOM-247-muneca-zootopia-musical.jpg"
+  },
+  {
+    "sku": "BOOM-248-muneca-frozen-musical",
+    "ref": "38801",
+    "name": "Muñeca Frozen Musical",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38801.",
+    "imagen": "BOOM-248-muneca-frozen-musical.jpg"
+  },
+  {
+    "sku": "BOOM-249-muneca-gaby-peq",
+    "ref": "26201",
+    "name": "Muñeca Gaby Peq",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26201.",
+    "imagen": "BOOM-249-muneca-gaby-peq.jpg"
+  },
+  {
+    "sku": "BOOM-250-muneca-gaby-gde",
+    "ref": "37351",
+    "name": "Muñeca Gaby Gde",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-250-muneca-gaby-gde.jpg"
+  },
+  {
+    "sku": "BOOM-251-muneca-blanca-nieves",
+    "ref": "58051",
+    "name": "Muñeca Blanca Nieves",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 58051.",
+    "imagen": "BOOM-251-muneca-blanca-nieves.jpg"
+  },
+  {
+    "sku": "BOOM-252-muneca-rapunzel-peq",
+    "ref": "26451",
+    "name": "Muñeca Rapunzel Peq",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26451.",
+    "imagen": "BOOM-252-muneca-rapunzel-peq.jpg"
+  },
+  {
+    "sku": "BOOM-253-muneca-princesa-sofia",
+    "ref": "48001",
+    "name": "Muñeca Princesa Sofía",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48001.",
+    "imagen": "BOOM-253-muneca-princesa-sofia.jpg"
+  },
+  {
+    "sku": "BOOM-254-muneca-doctora-juguetes",
+    "ref": "SIN_REF",
+    "name": "Muñeca Doctora Juguetes",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-254-muneca-doctora-juguetes.jpg"
+  },
+  {
+    "sku": "BOOM-255-bebe-real-sensores",
+    "ref": "13520.9",
+    "name": "Bebe Real Sensores",
+    "price": 320000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13520.9.",
+    "imagen": "BOOM-255-bebe-real-sensores.jpg"
+  },
+  {
+    "sku": "BOOM-256-muneca-bebe-real-control",
+    "ref": "13660.3",
+    "name": "Muñeca Bebé Real Control Remoto",
+    "price": 360000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13660.3.",
+    "imagen": "BOOM-256-muneca-bebe-real-control.jpg"
+  },
+  {
+    "sku": "BOOM-257-muneca-bebe-real-control",
+    "ref": "13660.3",
+    "name": "Muñeca Bebé Real Control Remoto",
+    "price": 360000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13660.3.",
+    "imagen": "BOOM-257-muneca-bebe-real-control.jpg"
+  },
+  {
+    "sku": "BOOM-258-muneca-bebe-real-control",
+    "ref": "13660.3",
+    "name": "Muñeca Bebé Real Control Remoto",
+    "price": 360000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13660.3.",
+    "imagen": "BOOM-258-muneca-bebe-real-control.jpg"
+  },
+  {
+    "sku": "BOOM-259-muneca-bebe-real-control",
+    "ref": "13550.9",
+    "name": "Muñeca Bebé Real Control Remoto",
+    "price": 350000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13550.9.",
+    "imagen": "BOOM-259-muneca-bebe-real-control.jpg"
+  },
+  {
+    "sku": "BOOM-260-muneca-bebe-real-control",
+    "ref": "13550.9",
+    "name": "Muñeca Bebé Real Control Remoto",
+    "price": 350000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13550.9.",
+    "imagen": "BOOM-260-muneca-bebe-real-control.jpg"
+  },
+  {
+    "sku": "BOOM-261-muneca-bebe-real-sensores",
+    "ref": "12270.9",
+    "name": "Muñeca Bebé Real Sensores",
+    "price": 270000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12270.9.",
+    "imagen": "BOOM-261-muneca-bebe-real-sensores.jpg"
+  },
+  {
+    "sku": "BOOM-262-muneca-bebe-real-sensores",
+    "ref": "12270.9",
+    "name": "Muñeca Bebé Real Sensores",
+    "price": 270000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 12270.9.",
+    "imagen": "BOOM-262-muneca-bebe-real-sensores.jpg"
+  },
+  {
+    "sku": "BOOM-263-bebe-con-tina",
+    "ref": "51010.1",
+    "name": "Bebé con Tina",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51010.1.",
+    "imagen": "BOOM-263-bebe-con-tina.jpg"
+  },
+  {
+    "sku": "BOOM-264-bebe-real-accesorios",
+    "ref": "49251",
+    "name": "Bebe Real Accesorios",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49251.",
+    "imagen": "BOOM-264-bebe-real-accesorios.jpg"
+  },
+  {
+    "sku": "BOOM-265-bebe-real-accesorios",
+    "ref": "49451",
+    "name": "Bebe Real Accesorios",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49451.",
+    "imagen": "BOOM-265-bebe-real-accesorios.jpg"
+  },
+  {
+    "sku": "BOOM-266-bebe-real-accesorios",
+    "ref": "49451",
+    "name": "Bebe Real Accesorios",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49451.",
+    "imagen": "BOOM-266-bebe-real-accesorios.jpg"
+  },
+  {
+    "sku": "BOOM-267-bebe-gateador",
+    "ref": "24381",
+    "name": "Bebé Gateador",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24381.",
+    "imagen": "BOOM-267-bebe-gateador.jpg"
+  },
+  {
+    "sku": "BOOM-268-bebe-mejillas",
+    "ref": "48351",
+    "name": "Bebé Mejillas",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48351.",
+    "imagen": "BOOM-268-bebe-mejillas.jpg"
+  },
+  {
+    "sku": "BOOM-269-bebe-real-sen",
+    "ref": "48051",
+    "name": "Bebe Real Sen",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48051.",
+    "imagen": "BOOM-269-bebe-real-sen.jpg"
+  },
+  {
+    "sku": "BOOM-270-bebe-real-sen",
+    "ref": "38951",
+    "name": "Bebe Real Sen",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38951.",
+    "imagen": "BOOM-270-bebe-real-sen.jpg"
+  },
+  {
+    "sku": "BOOM-271-bebe-real",
+    "ref": "49581",
+    "name": "Bebe Real",
+    "price": 98000,
+    "estado": "AGOTADO",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49581.",
+    "imagen": "BOOM-271-bebe-real.jpg"
+  },
+  {
+    "sku": "BOOM-272-cry-babie-camina",
+    "ref": "11285.9",
+    "name": "Cry Babie Camina",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11285.9.",
+    "imagen": "BOOM-272-cry-babie-camina.jpg"
+  },
+  {
+    "sku": "BOOM-273-bebe-chichi",
+    "ref": "36359",
+    "name": "Bebé Chichi",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36359.",
+    "imagen": "BOOM-273-bebe-chichi.jpg"
+  },
+  {
+    "sku": "BOOM-274-bebe-chichi",
+    "ref": "36359",
+    "name": "Bebé Chichi",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36359.",
+    "imagen": "BOOM-274-bebe-chichi.jpg"
+  },
+  {
+    "sku": "BOOM-275-bebe-real",
+    "ref": "81040.1",
+    "name": "Bebé Real",
+    "price": 14000,
+    "estado": "Disponible",
+    "categoria": "Bebes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 81040.1.",
+    "imagen": "BOOM-275-bebe-real.jpg"
+  },
+  {
+    "sku": "BOOM-276-muneca-k-pop",
+    "ref": "13459",
+    "name": "Muñeca K-Pop",
+    "price": 35000,
+    "estado": "AGOTADO",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13459.",
+    "imagen": "BOOM-276-muneca-k-pop.jpg"
+  },
+  {
+    "sku": "BOOM-277-muneca-rumi-accesorios",
+    "ref": "38201",
+    "name": "Muñeca Rumí Accesorios",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38201.",
+    "imagen": "BOOM-277-muneca-rumi-accesorios.jpg"
+  },
+  {
+    "sku": "BOOM-278-muneca-rumi-microfono",
+    "ref": "38551",
+    "name": "Muñeca Rumí Microfono",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 38551.",
+    "imagen": "BOOM-278-muneca-rumi-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-279-muneca-rumi",
+    "ref": "25751",
+    "name": "Muñeca Rumí",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25751.",
+    "imagen": "BOOM-279-muneca-rumi.jpg"
+  },
+  {
+    "sku": "BOOM-280-muneca-rumi-microfono",
+    "ref": "25201",
+    "name": "Muñeca Rumí Micrófono",
+    "price": 60000,
+    "estado": "AGOTADO",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-280-muneca-rumi-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-281-muneca-rumi-microfono",
+    "ref": "25201",
+    "name": "Muñeca Rumí Micrófono",
+    "price": 60000,
+    "estado": "AGOTADO",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-281-muneca-rumi-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-282-muneca-rumi-microfono",
+    "ref": "25201",
+    "name": "Muñeca Rumí Micrófono",
+    "price": 60000,
+    "estado": "AGOTADO",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-282-muneca-rumi-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-283-set-munecas-k-pop",
+    "ref": "SIN_REF",
+    "name": "Set Muñecas K-Pop",
+    "price": 55000,
+    "estado": "AGOTADO",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-283-set-munecas-k-pop.jpg"
+  },
+  {
+    "sku": "BOOM-284-muneca-masha-peq",
+    "ref": "93551",
+    "name": "Muñeca Masha Peq",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 93551.",
+    "imagen": "BOOM-284-muneca-masha-peq.jpg"
+  },
+  {
+    "sku": "BOOM-285-muneca-masha-gde",
+    "ref": "26051",
+    "name": "Muñeca Masha Gde",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26051.",
+    "imagen": "BOOM-285-muneca-masha-gde.jpg"
+  },
+  {
+    "sku": "BOOM-286-barbie-sirena-burbujas",
+    "ref": "13405",
+    "name": "Barbie Sirena Burbujas",
+    "price": 30000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13405.",
+    "imagen": "BOOM-286-barbie-sirena-burbujas.jpg"
+  },
+  {
+    "sku": "BOOM-287-est-minecraft",
+    "ref": "31529",
+    "name": "Est. Minecraft",
+    "price": 12000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 31529.",
+    "imagen": "BOOM-287-est-minecraft.jpg"
+  },
+  {
+    "sku": "BOOM-288-moto-didactica",
+    "ref": "26501",
+    "name": "Moto Didáctica",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26501.",
+    "imagen": "BOOM-288-moto-didactica.jpg"
+  },
+  {
+    "sku": "BOOM-289-est-spiderman",
+    "ref": "82501",
+    "name": "Est. Spiderman",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 82501.",
+    "imagen": "BOOM-289-est-spiderman.jpg"
+  },
+  {
+    "sku": "BOOM-290-est-spiderman",
+    "ref": "82501",
+    "name": "Est. Spiderman",
+    "price": 20000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 82501.",
+    "imagen": "BOOM-290-est-spiderman.jpg"
+  },
+  {
+    "sku": "BOOM-291-est-bluey-x-4",
+    "ref": "36051",
+    "name": "Est. Bluey x 4",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36051.",
+    "imagen": "BOOM-291-est-bluey-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-292-est-princesas-x-4",
+    "ref": "25001",
+    "name": "Est. Princesas x 4",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25001.",
+    "imagen": "BOOM-292-est-princesas-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-293-est-princesas-x-4",
+    "ref": "25001",
+    "name": "Est. Princesas x 4",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Muñecas",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25001.",
+    "imagen": "BOOM-293-est-princesas-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-294-est-roblox-x-12",
+    "ref": "37751",
+    "name": "Est. Roblox x 12",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37751.",
+    "imagen": "BOOM-294-est-roblox-x-12.jpg"
+  },
+  {
+    "sku": "BOOM-295-est-roblox-x-6",
+    "ref": "24159",
+    "name": "Est. Roblox x 6",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24159.",
+    "imagen": "BOOM-295-est-roblox-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-296-est-spiderman-x-4",
+    "ref": "37651",
+    "name": "Est. Spiderman x 4",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37651.",
+    "imagen": "BOOM-296-est-spiderman-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-297-est-little-nightmares",
+    "ref": "15951",
+    "name": "Est. Little Nightmares",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 15951.",
+    "imagen": "BOOM-297-est-little-nightmares.jpg"
+  },
+  {
+    "sku": "BOOM-298-est-spidey",
+    "ref": "26751",
+    "name": "Est. Spidey",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26751.",
+    "imagen": "BOOM-298-est-spidey.jpg"
+  },
+  {
+    "sku": "BOOM-299-est-pokemon",
+    "ref": "14751",
+    "name": "Est. Pokemon",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14751.",
+    "imagen": "BOOM-299-est-pokemon.jpg"
+  },
+  {
+    "sku": "BOOM-300-est-plim-plim",
+    "ref": "15953",
+    "name": "Est. Plim Plim",
+    "price": 55000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 15953.",
+    "imagen": "BOOM-300-est-plim-plim.jpg"
+  },
+  {
+    "sku": "BOOM-301-est-peppa",
+    "ref": "25201",
+    "name": "Est. Peppa",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25201.",
+    "imagen": "BOOM-301-est-peppa.jpg"
+  },
+  {
+    "sku": "BOOM-302-est-toy-story-x",
+    "ref": "37351",
+    "name": "Est. Toy Story x 6",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-302-est-toy-story-x.jpg"
+  },
+  {
+    "sku": "BOOM-303-est-toy-story-x",
+    "ref": "37351",
+    "name": "Est. Toy Story x 6",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37351.",
+    "imagen": "BOOM-303-est-toy-story-x.jpg"
+  },
+  {
+    "sku": "BOOM-304-est-mario-x-6",
+    "ref": "49851",
+    "name": "Est. Mario x 6",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49851.",
+    "imagen": "BOOM-304-est-mario-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-305-est-mario-x-6",
+    "ref": "41810.3",
+    "name": "Est. Mario x 6 caja",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41810.3.",
+    "imagen": "BOOM-305-est-mario-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-306-est-sonic-x-6",
+    "ref": "49581",
+    "name": "Est. Sonic x 6 Caja",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49581.",
+    "imagen": "BOOM-306-est-sonic-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-307-est-naruto",
+    "ref": "SIN_REF",
+    "name": "Est. Naruto",
+    "price": 50000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-307-est-naruto.jpg"
+  },
+  {
+    "sku": "BOOM-308-est-transformer",
+    "ref": "SIN_REF",
+    "name": "Est. Transformer",
+    "price": 50000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-308-est-transformer.jpg"
+  },
+  {
+    "sku": "BOOM-309-est-labubu",
+    "ref": "SIN_REF",
+    "name": "Est. Labubu",
+    "price": 50000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-309-est-labubu.jpg"
+  },
+  {
+    "sku": "BOOM-310-est-stich",
+    "ref": "24251",
+    "name": "Est. Stich",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24251.",
+    "imagen": "BOOM-310-est-stich.jpg"
+  },
+  {
+    "sku": "BOOM-311-est-soldados",
+    "ref": "SIN_REF",
+    "name": "Est. Soldados",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-311-est-soldados.jpg"
+  },
+  {
+    "sku": "BOOM-312-est-avengers-x-5",
+    "ref": "36551",
+    "name": "Est. Avengers x 5",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36551.",
+    "imagen": "BOOM-312-est-avengers-x-5.jpg"
+  },
+  {
+    "sku": "BOOM-313-est-dragon-ball-x",
+    "ref": "48551",
+    "name": "Est. Dragon Ball x 4",
+    "price": 85000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48551.",
+    "imagen": "BOOM-313-est-dragon-ball-x.jpg"
+  },
+  {
+    "sku": "BOOM-314-est-lol-x-5",
+    "ref": "SIN_REF",
+    "name": "Est. LOL x 5",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-314-est-lol-x-5.jpg"
+  },
+  {
+    "sku": "BOOM-315-est-avengers-x-6",
+    "ref": "47051",
+    "name": "Est. Avengers x 6",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 47051.",
+    "imagen": "BOOM-315-est-avengers-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-316-est-pokemon-x-13",
+    "ref": "36581",
+    "name": "Est. Pokémon x 13",
+    "price": 68000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36581.",
+    "imagen": "BOOM-316-est-pokemon-x-13.jpg"
+  },
+  {
+    "sku": "BOOM-317-est-intensamente-x-6",
+    "ref": "36501",
+    "name": "Est. Intensamente x 6",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36501.",
+    "imagen": "BOOM-317-est-intensamente-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-318-est-minecraft-dragon",
+    "ref": "37501",
+    "name": "Est. Minecraft Dragon",
+    "price": 70000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37501.",
+    "imagen": "BOOM-318-est-minecraft-dragon.jpg"
+  },
+  {
+    "sku": "BOOM-319-est-tortugas-ninja",
+    "ref": "36351",
+    "name": "Est. Tortugas Ninja",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36351.",
+    "imagen": "BOOM-319-est-tortugas-ninja.jpg"
+  },
+  {
+    "sku": "BOOM-320-est-zootopia-x-6",
+    "ref": "25281",
+    "name": "Est. Zootopia x 6",
+    "price": 58000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25281.",
+    "imagen": "BOOM-320-est-zootopia-x-6.jpg"
+  },
+  {
+    "sku": "BOOM-321-est-sonic-x-3",
+    "ref": "36251",
+    "name": "Est. Sonic x 3 Gde",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36251.",
+    "imagen": "BOOM-321-est-sonic-x-3.jpg"
+  },
+  {
+    "sku": "BOOM-322-est-paw-patrol",
+    "ref": "37851",
+    "name": "Est. Paw Patrol",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37851.",
+    "imagen": "BOOM-322-est-paw-patrol.jpg"
+  },
+  {
+    "sku": "BOOM-323-est-toy-story-x",
+    "ref": "26851",
+    "name": "Est. Toy Story x 4",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26851.",
+    "imagen": "BOOM-323-est-toy-story-x.jpg"
+  },
+  {
+    "sku": "BOOM-324-est-snoopy-x-4",
+    "ref": "26751",
+    "name": "Est. Snoopy x 4",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26751.",
+    "imagen": "BOOM-324-est-snoopy-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-325-est-circus-digital-x",
+    "ref": "72881",
+    "name": "Est. Circus Digital x 4",
+    "price": 28000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 72881.",
+    "imagen": "BOOM-325-est-circus-digital-x.jpg"
+  },
+  {
+    "sku": "BOOM-326-est-minecraft-x-4",
+    "ref": "13889",
+    "name": "Est. Minecraft x 4",
+    "price": 38000,
+    "estado": "Disponible",
+    "categoria": "Personajes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13889.",
+    "imagen": "BOOM-326-est-minecraft-x-4.jpg"
+  },
+  {
+    "sku": "BOOM-327-esa-garfield",
+    "ref": "25251",
+    "name": "Esa. Garfield",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25251.",
+    "imagen": "BOOM-327-esa-garfield.jpg"
+  },
+  {
+    "sku": "BOOM-328-est-hello-kitty",
+    "ref": "25451",
+    "name": "Est. Hello Kitty",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25451.",
+    "imagen": "BOOM-328-est-hello-kitty.jpg"
+  },
+  {
+    "sku": "BOOM-329-est-mickey",
+    "ref": "36251",
+    "name": "Est. Mickey",
+    "price": 65000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36251.",
+    "imagen": "BOOM-329-est-mickey.jpg"
+  },
+  {
+    "sku": "BOOM-330-est-granja-de-zenon",
+    "ref": "26701",
+    "name": "Est. Granja De Zenón",
+    "price": 60000,
+    "estado": "AGOTADO",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26701.",
+    "imagen": "BOOM-330-est-granja-de-zenon.jpg"
+  },
+  {
+    "sku": "BOOM-331-est-minions",
+    "ref": "24051",
+    "name": "Est. Minions",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-331-est-minions.jpg"
+  },
+  {
+    "sku": "BOOM-332-cancha-futbol",
+    "ref": "14951",
+    "name": "Cancha Futbol",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14951.",
+    "imagen": "BOOM-332-cancha-futbol.jpg"
+  },
+  {
+    "sku": "BOOM-333-maquina-de-burbujas-saxofon",
+    "ref": "37051",
+    "name": "Máquina de Burbujas Saxofon",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 37051.",
+    "imagen": "BOOM-333-maquina-de-burbujas-saxofon.jpg"
+  },
+  {
+    "sku": "BOOM-334-karaoke-mp3-con-maquina",
+    "ref": "91585.1",
+    "name": "Karaoke MP3 con Máquina de Burbuja",
+    "price": 185000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 91585.1.",
+    "imagen": "BOOM-334-karaoke-mp3-con-maquina.jpg"
+  },
+  {
+    "sku": "BOOM-335-karaoke-doble-recargable",
+    "ref": "41720.3",
+    "name": "Karaoke Doble Recargable",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41720.3.",
+    "imagen": "BOOM-335-karaoke-doble-recargable.jpg"
+  },
+  {
+    "sku": "BOOM-336-karaoke-doble-recargable",
+    "ref": "41720.3",
+    "name": "Karaoke Doble Recargable",
+    "price": 120000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 41720.3.",
+    "imagen": "BOOM-336-karaoke-doble-recargable.jpg"
+  },
+  {
+    "sku": "BOOM-337-piano-nina",
+    "ref": "49451",
+    "name": "Piano Niña",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49451.",
+    "imagen": "BOOM-337-piano-nina.jpg"
+  },
+  {
+    "sku": "BOOM-338-piano-nino",
+    "ref": "49451",
+    "name": "Piano Niño",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49451.",
+    "imagen": "BOOM-338-piano-nino.jpg"
+  },
+  {
+    "sku": "BOOM-339-guitarra-microfono",
+    "ref": "SIN_REF",
+    "name": "Guitarra Micrófono",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-339-guitarra-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-340-guitarra-microfono",
+    "ref": "SIN_REF",
+    "name": "Guitarra Micrófono",
+    "price": 75000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-340-guitarra-microfono.jpg"
+  },
+  {
+    "sku": "BOOM-341-guitarra-mp3-amplificador",
+    "ref": "11285.9",
+    "name": "Guitarra MP3 Amplificador",
+    "price": 185000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11285.9.",
+    "imagen": "BOOM-341-guitarra-mp3-amplificador.jpg"
+  },
+  {
+    "sku": "BOOM-342-guitarra-mp3-amplificador",
+    "ref": "11285.9",
+    "name": "Guitarra MP3 Amplificador",
+    "price": 185000,
+    "estado": "Disponible",
+    "categoria": "Musica",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 11285.9.",
+    "imagen": "BOOM-342-guitarra-mp3-amplificador.jpg"
+  },
+  {
+    "sku": "BOOM-343-maleta-tocador-2-en",
+    "ref": "51010.1",
+    "name": "Maleta Tocador 2 en 1",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 51010.1.",
+    "imagen": "BOOM-343-maleta-tocador-2-en.jpg"
+  },
+  {
+    "sku": "BOOM-344-bolso-cosmeticos",
+    "ref": "13051",
+    "name": "Bolso Cosmeticos",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13051.",
+    "imagen": "BOOM-344-bolso-cosmeticos.jpg"
+  },
+  {
+    "sku": "BOOM-345-tocador-med",
+    "ref": "49281",
+    "name": "Tocador Med",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49281.",
+    "imagen": "BOOM-345-tocador-med.jpg"
+  },
+  {
+    "sku": "BOOM-346-set-cofre-manillas",
+    "ref": "24081",
+    "name": "Set Cofre Manillas",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24081.",
+    "imagen": "BOOM-346-set-cofre-manillas.jpg"
+  },
+  {
+    "sku": "BOOM-347-set-cofre-manillas-3",
+    "ref": "26751",
+    "name": "Set Cofre Manillas 3 Nivele",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26751.",
+    "imagen": "BOOM-347-set-cofre-manillas-3.jpg"
+  },
+  {
+    "sku": "BOOM-348-bolso-accesorios",
+    "ref": "14883",
+    "name": "Bolso Accesorios",
+    "price": 48000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 14883.",
+    "imagen": "BOOM-348-bolso-accesorios.jpg"
+  },
+  {
+    "sku": "BOOM-349-cofre-maquillaje",
+    "ref": "36951",
+    "name": "Cofre Maquillaje",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36951.",
+    "imagen": "BOOM-349-cofre-maquillaje.jpg"
+  },
+  {
+    "sku": "BOOM-350-maquillaje-maleta-k-pop",
+    "ref": "36951",
+    "name": "Maquillaje maleta k-Pop",
+    "price": 55000,
+    "estado": "AGOTADO",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 36951.",
+    "imagen": "BOOM-350-maquillaje-maleta-k-pop.jpg"
+  },
+  {
+    "sku": "BOOM-351-maquillaje-maletin-de-lujo",
+    "ref": "61010.1",
+    "name": "Maquillaje maletín de lujo",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 61010.1.",
+    "imagen": "BOOM-351-maquillaje-maletin-de-lujo.jpg"
+  },
+  {
+    "sku": "BOOM-352-cofre-maquillaje",
+    "ref": "48101",
+    "name": "Cofre Maquillaje",
+    "price": 80000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 48101.",
+    "imagen": "BOOM-352-cofre-maquillaje.jpg"
+  },
+  {
+    "sku": "BOOM-353-cofre-maquillaje",
+    "ref": "59581",
+    "name": "Cofre Maquillaje",
+    "price": 98000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59581.",
+    "imagen": "BOOM-353-cofre-maquillaje.jpg"
+  },
+  {
+    "sku": "BOOM-354-set-maquina-de-unas",
+    "ref": "59551",
+    "name": "Set Máquina de Uñas",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59551.",
+    "imagen": "BOOM-354-set-maquina-de-unas.jpg"
+  },
+  {
+    "sku": "BOOM-355-set-maquina-de-unas",
+    "ref": "59551",
+    "name": "Set Máquina de Uñas Pinza de Cabello",
+    "price": 110000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59551.",
+    "imagen": "BOOM-355-set-maquina-de-unas.jpg"
+  },
+  {
+    "sku": "BOOM-356-set-manillas",
+    "ref": "59551",
+    "name": "Set Manillas",
+    "price": 90000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59551.",
+    "imagen": "BOOM-356-set-manillas.jpg"
+  },
+  {
+    "sku": "BOOM-357-set-maquillaje-unas-reloj",
+    "ref": "59551",
+    "name": "Set Maquillaje - Uñas - Reloj",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59551.",
+    "imagen": "BOOM-357-set-maquillaje-unas-reloj.jpg"
+  },
+  {
+    "sku": "BOOM-358-set-maquillaje-unas-bolso",
+    "ref": "59552",
+    "name": "Set Maquillaje Uñas - Bolso",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59552.",
+    "imagen": "BOOM-358-set-maquillaje-unas-bolso.jpg"
+  },
+  {
+    "sku": "BOOM-359-set-maquillaje-cofre-unas",
+    "ref": "59554",
+    "name": "Set Maquillaje Cofre - Uñas",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 59554.",
+    "imagen": "BOOM-359-set-maquillaje-cofre-unas.jpg"
+  },
+  {
+    "sku": "BOOM-360-maquina-manillas",
+    "ref": "49651",
+    "name": "Máquina Manillas",
+    "price": 95000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 49651.",
+    "imagen": "BOOM-360-maquina-manillas.jpg"
+  },
+  {
+    "sku": "BOOM-361-paleta-maquillaje-labubu",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje LaBuBu",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-361-paleta-maquillaje-labubu.jpg"
+  },
+  {
+    "sku": "BOOM-362-paleta-maquillaje-stich",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje Stich",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-362-paleta-maquillaje-stich.jpg"
+  },
+  {
+    "sku": "BOOM-363-paleta-maquillaje-labubu",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje LaBuBu",
+    "price": 45000,
+    "estado": "AGOTADO",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-363-paleta-maquillaje-labubu.jpg"
+  },
+  {
+    "sku": "BOOM-364-paleta-maquillaje-capibara",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje Capibara",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-364-paleta-maquillaje-capibara.jpg"
+  },
+  {
+    "sku": "BOOM-365-maquillaje-perfume-stich",
+    "ref": "26801",
+    "name": "Maquillaje Perfume Stich",
+    "price": 60000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 26801.",
+    "imagen": "BOOM-365-maquillaje-perfume-stich.jpg"
+  },
+  {
+    "sku": "BOOM-366-paleta-maquillaje-stich",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje Stich",
+    "price": 55000,
+    "estado": "AGOTADO",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-366-paleta-maquillaje-stich.jpg"
+  },
+  {
+    "sku": "BOOM-367-paleta-maquillaje-hello-kitty",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje Hello kitty",
+    "price": 40000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-367-paleta-maquillaje-hello-kitty.jpg"
+  },
+  {
+    "sku": "BOOM-368-paleta-maquillaje-stich",
+    "ref": "SIN_REF",
+    "name": "Paleta Maquillaje Stich",
+    "price": 40000,
+    "estado": "Disponible",
+    "categoria": "Belleza y Maquillaje",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-368-paleta-maquillaje-stich.jpg"
+  },
+  {
+    "sku": "BOOM-369-plastilina-helados",
+    "ref": "SIN_REF",
+    "name": "Plastilina Helados",
+    "price": 65000,
+    "estado": "Disponible",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-369-plastilina-helados.jpg"
+  },
+  {
+    "sku": "BOOM-370-plastilina-abecedario",
+    "ref": "SIN_REF",
+    "name": "Plastilina Abecedario",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-370-plastilina-abecedario.jpg"
+  },
+  {
+    "sku": "BOOM-371-plastilina-doctor-muelitas",
+    "ref": "24051",
+    "name": "Plastilina Doctor Muelitas",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Role Play",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-371-plastilina-doctor-muelitas.jpg"
+  },
+  {
+    "sku": "BOOM-372-plastilina-peluqueria",
+    "ref": "24158",
+    "name": "Plastilina Peluqueria",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24158.",
+    "imagen": "BOOM-372-plastilina-peluqueria.jpg"
+  },
+  {
+    "sku": "BOOM-373-plastilina-caja-x-8",
+    "ref": "SIN_REF",
+    "name": "Plastilina Caja x 8",
+    "price": 25000,
+    "estado": "Disponible",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-373-plastilina-caja-x-8.jpg"
+  },
+  {
+    "sku": "BOOM-374-plastilina-caja-x-10",
+    "ref": "SIN_REF",
+    "name": "Plastilina Caja x 10",
+    "price": 20000,
+    "estado": "AGOTADO",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: SIN_REF.",
+    "imagen": "BOOM-374-plastilina-caja-x-10.jpg"
+  },
+  {
+    "sku": "BOOM-375-plastilina-tubo-x-10",
+    "ref": "82051",
+    "name": "Plastilina Tubo x 10",
+    "price": 25000,
+    "estado": "AGOTADO",
+    "categoria": "Arte y Manualidades",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 82051.",
+    "imagen": "BOOM-375-plastilina-tubo-x-10.jpg"
+  },
+  {
+    "sku": "BOOM-376-paq-animales-selva",
+    "ref": "13559",
+    "name": "Paq. Animales Selva",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13559.",
+    "imagen": "BOOM-376-paq-animales-selva.jpg"
+  },
+  {
+    "sku": "BOOM-377-paq-animales-selva",
+    "ref": "13559",
+    "name": "Paq. Animales Selva",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13559.",
+    "imagen": "BOOM-377-paq-animales-selva.jpg"
+  },
+  {
+    "sku": "BOOM-378-paq-comida-didactica",
+    "ref": "13451",
+    "name": "Paq. Comida Didáctica",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13451.",
+    "imagen": "BOOM-378-paq-comida-didactica.jpg"
+  },
+  {
+    "sku": "BOOM-379-paq-comida-didactica",
+    "ref": "13451",
+    "name": "Paq. Comida Didáctica",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13451.",
+    "imagen": "BOOM-379-paq-comida-didactica.jpg"
+  },
+  {
+    "sku": "BOOM-380-frutas-verduras-didacticas",
+    "ref": "13459",
+    "name": "Frutas Verduras Didácticas",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13459.",
+    "imagen": "BOOM-380-frutas-verduras-didacticas.jpg"
+  },
+  {
+    "sku": "BOOM-381-letras-enhebrar",
+    "ref": "13159",
+    "name": "Letras enhebrar",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13159.",
+    "imagen": "BOOM-381-letras-enhebrar.jpg"
+  },
+  {
+    "sku": "BOOM-382-armatodo-tubular",
+    "ref": "13159",
+    "name": "Armatodo Tubular",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13159.",
+    "imagen": "BOOM-382-armatodo-tubular.jpg"
+  },
+  {
+    "sku": "BOOM-383-armatodo-constricubitos",
+    "ref": "13159",
+    "name": "Armatodo Constricubitos",
+    "price": 35000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 13159.",
+    "imagen": "BOOM-383-armatodo-constricubitos.jpg"
+  },
+  {
+    "sku": "BOOM-384-moto-impulso",
+    "ref": "24051",
+    "name": "Moto Impulso",
+    "price": 45000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 24051.",
+    "imagen": "BOOM-384-moto-impulso.jpg"
+  },
+  {
+    "sku": "BOOM-385-moto-didactica",
+    "ref": "25451",
+    "name": "Moto Didactica",
+    "price": 55000,
+    "estado": "Disponible",
+    "categoria": "Juguetes",
+    "descripcion": "Producto de jugueteria DecoBoom J&C. Ref: 25451.",
+    "imagen": "BOOM-385-moto-didactica.jpg"
+  }
+]
